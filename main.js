@@ -1,4 +1,4 @@
-let link = 'http://google.com'
+let link = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 
 setTimeout( () => {
     window.location = link;
